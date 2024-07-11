@@ -1,4 +1,4 @@
-                                                         *Project Overview: Coffee Sales Dashboard*
+*Project Overview: Coffee Sales Dashboard*
 
 
 --> Objective:- Analyze coffee sales in different countries and create a comprehensive dashboard to visualize the data.
